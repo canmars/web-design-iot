@@ -10,7 +10,18 @@ CANTRA adında küçük bir öğrenci grubu IoT teknolojileriyle ilgileniyor ve 
 
 Tasarım Canva programı üzerinden yapılmıştır.
 
-### Web Sitesinin Özellikleri
+### Web Sitesinin Özellikleri ve Dosya İçerikleri
+
+- Kullanılan Fontlar:
+    Menü ve Bize Ulaşın Kısmında
+        Abril Fatface
+    Slogan ve İçerik Kısmında
+        Alata
+    Copyright Kısmında
+        Sanchez
+    Bizimle İletişime Geçin Kısmında
+        Üstte Abril Fatface, altta Montserrat Light
+
 
 - Logo:
     Canva'nın yapay zekası tarafından oluşturulmuştur. (logo-cantra.jpg)

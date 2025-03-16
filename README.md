@@ -14,7 +14,7 @@ Tasarım Canva programı üzerinden yapılmıştır.
 
 - Kullanılan Fontlar:
     - Menü ve Bize Ulaşın Kısmında
-        -Abril Fatface
+        - Abril Fatface
     - Slogan ve İçerik Kısmında
         - Alata
     - Copyright Kısmında

@@ -12,5 +12,18 @@ Tasarım Canva programı üzerinden yapılmıştır.
 
 ### Web Sitesinin Özellikleri
 
-Logo Canva'nın yapay zekası tarafından oluşturulmuştur. (logo-cantra.jpg)
-IoT'yi içeren görsel wikipedia.org'den alınmıştır. 
+- Logo:
+    Canva'nın yapay zekası tarafından oluşturulmuştur. (logo-cantra.jpg)
+- IoT'yi içeren görsel:
+    wikipedia.org'den alınmıştır. (iot-wiki.jpg)
+
+- site-view.png:
+    Web sitesinin son görünümünü içeren görseldir.
+
+- site-desc.png:
+    Web sitesinde hangi tasarım tekniklerinin kullanıldığı görselde belirtilmiştir.
+
+- site-full-screen.png:
+    Web sitesinin tam ekran görünümünü içeren görseldir.
+
+- site-wi

@@ -23,7 +23,11 @@ Tasarım Canva programı üzerinden yapılmıştır.
 - site-desc.png:
     Web sitesinde hangi tasarım tekniklerinin kullanıldığı görselde belirtilmiştir.
 
-- site-full-screen.png:
-    Web sitesinin tam ekran görünümünü içeren görseldir.
+- site-with-ruler.png:
+    Web sitesinin cetvellerle gösterimli görselidir.
 
-- site-wi
+- site-screen-view.png:
+    Web sitesinin normal ekran görünümünü içeren görseldir.
+
+- site-full-screen-view.png:
+    Web sitesinin tam ekran görünümünü içeren görseldir.
